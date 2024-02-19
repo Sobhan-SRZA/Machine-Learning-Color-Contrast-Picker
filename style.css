@@ -1,0 +1,68 @@
+* {
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    text-align: center;
+}
+
+h1, h2 {
+    margin-block-start: 1cm;
+}
+
+body {
+    background-color: rgb(54, 106, 125);
+}
+
+#color-box {
+    inline-size: 200px;
+    block-size: 200px;
+    display: flex;
+    border: 5px solid black;
+    border-radius: 30px;
+    flex-direction: column;
+}
+
+#white {
+    color: white;
+}
+
+button {
+    background-color: rgb(255, 255, 255);
+    inline-size: 1.5cm;
+    block-size: 1cm;
+    display: inline-flex;
+    margin-block-start: 0.1cm;
+    border-radius: 30px;
+    border: 3.5px solid black;
+}
+
+button:hover {
+    background-color: rgb(168, 168, 168);
+}
+
+button:active {
+    background-color: rgb(61, 61, 61);
+}
+
+input {
+    inline-size: 200px;
+    block-size: 50px;
+    margin-block-start: 0.2cm;
+    border-radius: 30px;
+    border: 3.5px solid black;
+}
+
+footer {
+    margin-block-start: 0.6cm;
+}
+/**
+ * @copyright
+ * Coded by Sobhan-SRZA (mr.sinre) | https://github.com/Sobhan-SRZA
+ * @copyright
+ * Work for Persian Caesar | https://dsc.gg/persian-caesar
+ * @copyright
+ * Please Mention Us "Persian Caesar", When Have Problem With Using This Code!
+ * @copyright
+ */
