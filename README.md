@@ -57,7 +57,7 @@ This project is licensed under the [MIT License](https://github.com/Sobhan-SRZA/
 
 ---
 
-## 📇 Contact
+## Contact
 
 <div align="center">
   <a href="https://zil.ink/sobhan.srza" target="_blank">
