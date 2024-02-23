@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="display:block;margin-left:auto;margin-right:auto;width:400px;" src="https://github.com/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker/assets/90289153/93024adb-ece8-4204-80b0-4a38cce539d5">
+    <img style="display:block;margin-left:auto;margin-right:auto;width:400px;" src="https://github.com/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker/assets/90289153/21d5365a-2001-436f-96eb-26fdf993797b">
     <h1>Machine Learning Color Contrast Picker</h1>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
