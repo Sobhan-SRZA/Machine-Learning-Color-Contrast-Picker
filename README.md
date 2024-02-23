@@ -1,20 +1,25 @@
-# Machine Learning Color Contrast Picker
 <div align="center">
-    <img src="https://badges.aleen42.com/src/node.svg">
-    <img src="https://img.shields.io/github/v/release/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Version">
+    <img style="display:block;margin-left:auto;margin-right:auto;width:400px;" src="https://github.com/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker/assets/90289153/93024adb-ece8-4204-80b0-4a38cce539d5">
+    <h1>Machine Learning Color Contrast Picker</h1>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <div>
         <img src="https://img.shields.io/github/license/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=License">
         <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Last Commit">
         <img src="https://img.shields.io/github/release-date/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Last Release">
         <img src="https://img.shields.io/github/downloads/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker/total?label=Downloads">
     </div>
-    <img src="https://img.shields.io/github/forks/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Forks">
-    <img src="https://img.shields.io/github/stars/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Stars">
-    <img src="https://img.shields.io/github/watchers/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Watchers">
     <img src="https://img.shields.io/github/languages/code-size/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Code Size">
     <img src="https://img.shields.io/github/directory-file-count/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Files">
+    <img src="https://img.shields.io/github/v/release/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Version">
     <div>
-        <img style="display:block;margin-left:auto;margin-right:auto;width:45%;" src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Machine-Learning-Color-Contrast-Picker&theme=react">
+        <img src="https://img.shields.io/github/forks/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Forks">
+        <img src="https://img.shields.io/github/stars/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Stars">
+        <img src="https://img.shields.io/github/watchers/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Watchers">
+    </div>
+    <div>
+        <img style="display:block;margin-left:auto;margin-right:auto;width:400px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Sobhan-SRZA&repo=Machine-Learning-Color-Contrast-Picker&theme=react">
     </div>
 </div>
 
@@ -49,11 +54,19 @@ To use this project, follow these steps:
 
 If you have any questions, suggestions, or feedback, feel free to [open an issue](https://github.com/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker/issues).
 
+Or you can create a ticket in our [discord server](https://discord.gg/7nV2MMjyK8).
+
 ---
 
 ## License
 
 This project is licensed under the [MIT License](https://github.com/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker/blob/main/LICENSE).
+
+---
+
+## Screen Shots
+
+
 
 ---
 
