@@ -13,6 +13,15 @@ const printButton = document.getElementById("print-button");
 let color;
 setRandomColor();
 
+const title = document.title;
+window.addEventListener("focus", () => {
+    document.title = title;
+});
+
+window.addEventListener("blur", () => {
+    document.title = "Came back I miss u :(";
+});
+
 whiteButton.addEventListener("click", () => {
     chooseColor(1);
 });
@@ -34,9 +43,8 @@ function chooseColor(value) {
     setRandomColor();
 };
 
-diagram.innerHTML = brain.utilities.toSVG(net);
-
 function setRandomColor() {
+    diagram.innerHTML = brain.utilities.toSVG(net);
     color = {
         r: Math.random(),
         g: Math.random(),
