@@ -73,7 +73,7 @@ This project is licensed under the [MIT License](https://github.com/Sobhan-SRZA/
 ## Contact
 
 <div align="center">
-  <a href="https://zil.ink/sobhan.srza" target="_blank">
+  <a href="http://sobhan.epizy.com/" target="_blank">
     <img align="left" src ="https://github.com/Sobhan-SRZA/Sobhan-SRZA/raw/main/source/social-media.png" width = 50% >
   </a>
   <a href="https://t.me/pc_clubs" target="_blank">
@@ -86,7 +86,7 @@ This project is licensed under the [MIT License](https://github.com/Sobhan-SRZA/
   <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
     <img alt="Twitch" src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=6441A4&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://www.youtube.com/@pc_club?app=desktop&sub_confirmation=1" target="_blank">
+  <a href="https://www.youtube.com/@mr_sinre?app=desktop&sub_confirmation=1" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://github.com/Sobhan-SRZA" target="_blank">
