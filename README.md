@@ -1,9 +1,9 @@
 <div align="center">
     <img style="display:block;margin-left:auto;margin-right:auto;width:400px;" src="https://github.com/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker/assets/90289153/21d5365a-2001-436f-96eb-26fdf993797b">
     <h1>Machine Learning Color Contrast Picker</h1>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://badges.aleen42.com/src/javascript.svg">
+    <img src="https://badges.aleen42.com/src/html5.svg">
+    <img src="https://badges.aleen42.com/src/css3.svg">
     <div>
         <img src="https://img.shields.io/github/license/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=License">
         <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Last Commit">
