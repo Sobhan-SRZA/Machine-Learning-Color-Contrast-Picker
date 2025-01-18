@@ -8,7 +8,6 @@
         <img src="https://img.shields.io/github/license/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=License">
         <img src="https://img.shields.io/github/last-commit/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Last Commit">
         <img src="https://img.shields.io/github/release-date/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Last Release">
-        <img src="https://img.shields.io/github/downloads/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker/total?label=Downloads">
     </div>
     <img src="https://img.shields.io/github/languages/code-size/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Code Size">
     <img src="https://img.shields.io/github/directory-file-count/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?label=Files">
